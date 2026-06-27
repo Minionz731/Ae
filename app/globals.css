@@ -21,7 +21,7 @@ html {
 body {
   background-color: var(--bg);
   color: var(--white);
-  font-family: var(--font-inter), sans-serif;
+  font-family: var(--font-poppins), sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
@@ -90,7 +90,7 @@ body {
 
 /* Large display text */
 .display-text {
-  font-family: var(--font-syne), sans-serif;
+  font-family: var(--font-poppins), sans-serif;
   font-weight: 700;
   line-height: 1.02;
   letter-spacing: -0.03em;

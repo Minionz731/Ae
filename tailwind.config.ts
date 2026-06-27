@@ -18,8 +18,8 @@ const config: Config = {
         'ae-white': '#FFFFFF',
       },
       fontFamily: {
-        display: ['var(--font-syne)', 'sans-serif'],
-        body: ['var(--font-inter)', 'sans-serif'],
+        display: ['var(--font-poppins)', 'sans-serif'],
+        body: ['var(--font-poppins)', 'sans-serif'],
       },
       animation: {
         marquee: 'marquee 28s linear infinite',
